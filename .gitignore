@@ -1,0 +1,60 @@
+# =========================
+# 🌐 HTML / Web
+# =========================
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Cache de navegador / temporários
+*.log
+*.tmp
+*.cache
+
+# =========================
+# ☕ Java
+# =========================
+
+# Arquivos compilados
+*.class
+
+# Pacotes gerados
+*.jar
+*.war
+*.ear
+
+# Diretórios de build
+/bin/
+/build/
+/out/
+/target/
+
+# =========================
+# 🛠️ IDEs
+# =========================
+
+# VS Code
+.vscode/
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# =========================
+# 🔐 Segurança
+# =========================
+
+# Variáveis de ambiente
+.env
+*.env
+
+# =========================
+# 📦 Dependências (se usar)
+# =========================
+
+node_modules/
